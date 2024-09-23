@@ -1,0 +1,15 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.navbar.navbar-expand-lg.bg-body-tertiary.navbar-show{
+    background-color: #ffa921 !important;
+}
+.logo{
+  display: flex;
+  height: 45px; 
+}
+.d-block{
+    max-width: 100% !important
+
+}
