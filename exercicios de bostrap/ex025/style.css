@@ -1,0 +1,67 @@
+@import url(https://fonts.googleapis.com/css2?family=Inter+Tight:ital,wght@0,100..900;1,100..900&display=swap);
+main{
+    margin: -35px -15px 30px 1px;
+    padding: auto;
+    font-weight: bolder;
+    font-size: 20px;
+    font-style: italic;
+    font-family: 'Times New Roman', Times, serif;
+  
+    
+}
+.contains{
+    background-image: url(imagem/razorback.png);
+    font-family:"Inter Tight", sans-serif ;
+    font-weight: bolder;
+    display: flex;
+    align-items: center;
+    font-size: medium;
+    font-style: italic;
+    color: rgb(255, 255, 255);
+}
+.box{
+    justify-content: space-between;
+    display: flex;
+    padding: 1rem 3rem  ;
+    box-shadow: 0px 3px 10px 
+    rgb(255, 255, 255);
+    background-color: rgb(177, 10, 10);
+}
+li#nav-item{
+    padding: 5px;
+    margin: 10px;
+    cursor: pointer;
+    display: flex;
+    color: rgb(201, 211, 211);
+    font-weight: bold;
+}
+a:visited{
+    color: rgb(255, 255, 255);
+}
+a:hover{
+    text-decoration:underline;
+}
+.background-x {
+    background-image: url('imagem/53442dd15ed9cdbb48c51d4b327871b6.jpg');
+    background-size: 100%;
+    background-position: center top 50%  ;
+    height: 100vh;
+    background-repeat: no-repeat;
+}
+.background-x1{
+    background-color: black;
+    background-image: url(imagem/maxresdefault1.jpg);
+    background-position:center top ;
+    background-size: 100%;
+    background-repeat:no-repeat;
+height: 100vh;
+}
+.background-x3{
+    background-image: url(imagem/razorback.png);
+    height: 60px;
+    width: 50px;
+    background-position: center ;
+}
+
+
+
